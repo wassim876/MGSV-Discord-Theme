@@ -20,7 +20,7 @@ MGSV TPP inspired BetterDiscord/Vesktop theme.
 ## Installation
 
 1. Install BetterDiscord or Vesktop
-2. Download `MetalGear.theme.css`
+2. Download `Metal Gear Solid.css`
 3. Put it in your themes folder
 4. Enable the theme
 
