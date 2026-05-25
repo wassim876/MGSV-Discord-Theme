@@ -13,9 +13,9 @@ MGSV TPP inspired BetterDiscord/Vesktop theme.
 - Wallpaper support
 - Optimized for Vesktop
 
-## Preview
+## Wallpaper
 
-![preview](preview.png)
+![wallpaper](mgsV_Wallpaper.jpg)
 
 ## Installation
 
